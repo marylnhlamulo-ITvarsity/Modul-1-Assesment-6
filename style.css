@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(101, 162, 216);
+}
+
+img{
+    height: 175px;
+    width: 288px;
+}
+
+.gallery img{
+    width: 683px;
+    height: 384px;
+}
