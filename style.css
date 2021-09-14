@@ -11,3 +11,22 @@ img{
     width: 683px;
     height: 384px;
 }
+
+table{
+    font-family: Arial, sans-serif;
+    border-collapse:collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(101, 162, 216);
+}
+
+th{
+    font-weight: 800;
+    color:black;
+    background-color: rgb(101, 162, 216);
+}
+
+td{
+    font-size: 3.5mm;
+}
